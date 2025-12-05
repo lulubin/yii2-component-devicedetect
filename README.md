@@ -29,3 +29,4 @@ var_dump(Yii::$app->devicedetect->isTablet());
 ```php
 var_dump(Yii::getAlias('@device')); //return 'mobile', 'tablet' or 'desktop'
 ```
+
